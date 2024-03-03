@@ -6,7 +6,7 @@ We take the security of the Tic Tac Toe Extravaganza seriously. If you believe y
 
 To report a security vulnerability, please follow these steps:
 
-1. **Privately Disclose:** Directly email us at [your-email@example.com] with details of the vulnerability. Do not disclose the issue publicly until we have addressed it.
+1. **Privately Disclose:** Directly email us at [zikkiz275@gmail.com] with details of the vulnerability. Do not disclose the issue publicly until we have addressed it.
 
 2. **Provide Information:**
    - Describe the vulnerability in detail.
